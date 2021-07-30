@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+![Simulator Screen Recording - iPhone 11 - 2021-07-29 at 17 46 29](https://user-images.githubusercontent.com/62162019/127687604-e446705b-1e84-49ec-8e8d-1ec9be2e7b0d.gif)
 
 
 ## Notes
